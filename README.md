@@ -20,7 +20,7 @@ To contribute to the development of the Plant Disease Detection and Solutions ap
 
 1. **Clone the Repository**: Open your terminal or command prompt and navigate to the directory where you want to clone the repository. Then, use the following command:
 ```
-git clone https://github.com/your-username/plant-disease-app.git
+git clone https://github.com/yashdagar/HealthyGrove.git
 ```
 vbnet
 Copy code
