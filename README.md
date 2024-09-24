@@ -36,9 +36,6 @@ The Plant Disease Detection and Solutions app covers a wide range of plant disea
 - Fusarium Wilt
 - and many more.
 
-## Get Involved
-If you're interested in contributing to the development of the Plant Disease Detection and Solutions app or have suggestions for improvement, feel free to reach out to us at [yashdagar4557@gmail.com](mailto:anshagrawal148@gmail.com).
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
